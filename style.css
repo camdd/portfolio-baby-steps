@@ -55,11 +55,10 @@ h1 {
 .links {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 
 .links img {
-    display: flex;
-   /*  flex-direction:row; */
     width: 34px;
 }
 
